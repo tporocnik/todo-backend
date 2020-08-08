@@ -1,0 +1,1 @@
+java -jar -Dquarkus.http.host=0.0.0.0 -Ddebug target/todo-1.0-SNAPSHOT-runner.jar
