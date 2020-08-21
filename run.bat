@@ -1,1 +1,1 @@
-java -jar -Dquarkus.http.host=0.0.0.0 -Ddebug target/todo-1.0-SNAPSHOT-runner.jar
+java -jar -Dquarkus.http.host=0.0.0.0 -agentlib:jdwp=transport=dt_socket,server=y,address=5005,suspend=n target/todo-1.0-SNAPSHOT-runner.jar
