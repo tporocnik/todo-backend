@@ -6,7 +6,7 @@ REST backend for a simple Todo application implemented with Quarkus. The app sup
 * Add and update tasks
 * Delete tasks
 
-The code is part of the blog post [https://medium.com/@porocnik/microprofile-webcomponents-der-neue-standard-teil-1-a53c16fcd867](MicroProfile & WebComponents — der neue Standard (Teil 1))
+The code is part of the blog post [MicroProfile & WebComponents — der neue Standard (Teil 1)](https://medium.com/@porocnik/microprofile-webcomponents-der-neue-standard-teil-1-a53c16fcd867)
 
 ### Configuration 
 
